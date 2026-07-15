@@ -1,0 +1,6 @@
+Performance Load Test Results
+----------------------------------------
+Website : https://example.com
+Total Requests : 10
+Successful Requests : 10
+Average Response Time : 1.975 seconds
